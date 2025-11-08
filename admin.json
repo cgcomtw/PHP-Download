@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "timezone": "Asia/Taipei",
+  "ttl_hours": 5,
+  "passcode_version": 1,
+  "admin_passcode": "manager-1688",
+  "user_passcode": "user-5678",
+  "first_used_at": null,
+  "expires_at": null,
+  "locked_after_expire": true
+}
